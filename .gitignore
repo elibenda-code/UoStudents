@@ -1,0 +1,47 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Rider IDE files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# ASP.NET Core files
+*.db
+*.mdb
+*.ldf
+*.mdf
+*.sqlite
+*.sql
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish folders
+publish/
+wwwroot/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.swp
+*.sublime-workspace
+*.sublime-project
